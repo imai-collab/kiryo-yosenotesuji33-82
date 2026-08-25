@@ -1,0 +1,11 @@
+{
+  "appTitle": "©kiryoアプリ　詰将棋ベース",
+  "problems": [
+    {
+      "id": 2,
+      "title": "第０問",
+      "description": "コメント欄",
+      "initialSfen": "9/9/9/9/9/9/9/9/9 b - 1"
+    }
+  ]
+}

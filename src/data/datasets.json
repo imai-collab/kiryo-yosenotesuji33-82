@@ -1,0 +1,1240 @@
+[
+  {
+    "id": "1786596445057",
+    "title": "©kiryoアプリ　詰み筋反復ドリル (2026/8/13)",
+    "appTitle": "©kiryoアプリ　詰み筋反復ドリル",
+    "problems": [
+      {
+        "id": 2,
+        "title": "問題１",
+        "description": "詰み筋１ 頭金①",
+        "initialSfen": "9/4k4/9/4S4/9/9/9/9/9 b GS2r2b3g2s4n4l18p 1"
+      },
+      {
+        "id": 3,
+        "title": "問題２",
+        "description": "５手詰です。",
+        "initialSfen": "4k4/9/3p1p3/4P4/9/9/9/9/9 b 2GS2r2b2g3s4n4l15p 1"
+      },
+      {
+        "id": 4,
+        "title": "問題３",
+        "description": "７手詰です。",
+        "initialSfen": "3gkp3/9/3p5/5S+B2/9/9/9/9/9 b GS2rb2g2s4n4l16p 1"
+      },
+      {
+        "id": 5,
+        "title": "問題４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5gkn1/3+R5/4p1s2/5P3/9/9/9/9/9 b B2Grbg3s3n4l16p 1"
+      },
+      {
+        "id": 6,
+        "title": "問題５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "3pk2B1/5g3/4+P4/9/4P4/9/9/9/9 b 3G2rb4s4n4l15p 1"
+      },
+      {
+        "id": 7,
+        "title": "問題６",
+        "description": "詰み筋２ 頭金②",
+        "initialSfen": "6l+B1/8S/8k/7b1/7pp/9/9/9/9 b G2r3g3s4n3l16p 1"
+      },
+      {
+        "id": 8,
+        "title": "問題７",
+        "description": "５手詰です。",
+        "initialSfen": "8l/6S2/8k/5B1ns/8p/9/9/9/9 b GN2rb3g2s2n3l17p 1"
+      },
+      {
+        "id": 9,
+        "title": "問題８",
+        "description": "７手詰です。",
+        "initialSfen": "6l+Bl/9/6pk1/7ns/6P1p/9/9/9/9 b BGN2r3g3s2n2l15p 1"
+      },
+      {
+        "id": 10,
+        "title": "問題９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6l1l/6pkB/5B3/6Lns/8p/9/9/9/9 b GN2r3g3s2nl16p 1"
+      },
+      {
+        "id": 11,
+        "title": "問題１０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6pnl/5R3/5B1k1/6Pns/8p/9/9/9/9 b GSrb3g2s2n3l15p 1"
+      },
+      {
+        "id": 12,
+        "title": "問題１１",
+        "description": "詰み筋３ 頭金③",
+        "initialSfen": "9/5+B1l1/5S1k1/7Np/9/9/9/9/9 b G2rb3g3s3n3l17p 1"
+      },
+      {
+        "id": 13,
+        "title": "問題１２",
+        "description": "５手詰です。",
+        "initialSfen": "7B1/5+B1lS/5P2k/8g/6P2/9/9/9/9 b G2r2g3s4n3l16p 1"
+      },
+      {
+        "id": 14,
+        "title": "問題１３",
+        "description": "７手詰です。",
+        "initialSfen": "6p2/5B1pS/5S2k/6sNp/9/9/9/9/9 b GN2rb3gs2n4l15p 1"
+      },
+      {
+        "id": 15,
+        "title": "問題１４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6p2/5B1p1/5S1k1/7Np/6g2/9/9/9/9 b GSN2rb2g2s2n4l15p 1"
+      },
+      {
+        "id": 16,
+        "title": "問題１５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6g2/5+B1pk/5S3/8p/6r2/8N/9/9/9 b GSNrb2g2s2n4l16p 1"
+      },
+      {
+        "id": 17,
+        "title": "問題１６",
+        "description": "詰み筋４ 頭金④",
+        "initialSfen": "6s1k/6r2/6g+BP/9/9/9/9/9/9 b rb3g3s4n4l17p 1"
+      },
+      {
+        "id": 18,
+        "title": "問題１７",
+        "description": "５手詰です。",
+        "initialSfen": "6ln1/5B1k1/6gpp/7N1/9/9/9/9/9 b B2r3g4s2n3l16p 1"
+      },
+      {
+        "id": 19,
+        "title": "問題１８",
+        "description": "７手詰です。",
+        "initialSfen": "7k1/6p2/5+B1g+P/9/9/9/9/9/9 b RNrb3g4s3n4l16p 1"
+      },
+      {
+        "id": 20,
+        "title": "問題１９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6pk1/5+B3/6PgP/6s1p/9/9/9/9/9 b RNrb3g3s3n4l14p 1"
+      },
+      {
+        "id": 21,
+        "title": "問題２０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6ln1/5+BgkB/8P/6s1n/9/9/9/9/9 b RLr3g3s2n2l17p 1"
+      },
+      {
+        "id": 22,
+        "title": "問題２１",
+        "description": "詰み筋５ 頭金の応用①〜成駒で詰ます〜",
+        "initialSfen": "6k2/9/5gB1S/7R1/9/9/9/9/9 b rb3g3s4n4l18p 1"
+      },
+      {
+        "id": 23,
+        "title": "問題２２",
+        "description": "５手詰です。",
+        "initialSfen": "4p1k1l/6g2/6+BP1/9/9/9/9/9/9 b RNrb3g4s3n3l16p 1"
+      },
+      {
+        "id": 24,
+        "title": "問題２３",
+        "description": "７手詰です。",
+        "initialSfen": "5n1kl/4P1g2/6+Bp+P/9/9/9/9/9/9 b BL2r3g4s3n2l15p 1"
+      },
+      {
+        "id": 25,
+        "title": "問題２４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8l/6g1k/6Bp1/9/9/9/9/9/9 b RSNrb3g3s3n3l17p 1"
+      },
+      {
+        "id": 26,
+        "title": "問題２５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5n1+bl/6s1k/5+RBp1/9/9/9/9/9/9 b RN4g3s2n3l17p 1"
+      },
+      {
+        "id": 27,
+        "title": "問題２６",
+        "description": "詰み筋６ 頭金の応用②〜金の移動と銀打ちの詰み〜",
+        "initialSfen": "7kl/9/4+BGSp1/9/9/9/9/9/9 b 2rb3g3s4n3l17p 1"
+      },
+      {
+        "id": 28,
+        "title": "問題２７",
+        "description": "５手詰です。",
+        "initialSfen": "8l/8k/4+B1Sp1/8g/9/9/9/9/9 b BS2r3g2s4n3l17p 1"
+      },
+      {
+        "id": 29,
+        "title": "問題２８",
+        "description": "７手詰です。",
+        "initialSfen": "8l/7k1/4+BG1p1/8g/9/9/9/9/9 b BS2r2g3s4n3l17p 1"
+      },
+      {
+        "id": 30,
+        "title": "問題２９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8l/7k1/4+BGpp1/8g/7P1/9/9/9/9 b 2SN2rb2g2s3n3l15p 1"
+      },
+      {
+        "id": 31,
+        "title": "問題３０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8l/6ksR/4+B2p1/8r/9/9/9/9/9 b GSb3g2s4n3l17p 1"
+      },
+      {
+        "id": 32,
+        "title": "問題３１",
+        "description": "詰み筋７ 頭金の応用③〜駒を成って詰ます〜",
+        "initialSfen": "5k1n1/4sp3/6P2/5N3/9/9/9/9/9 b Rr2b4g3s2n4l16p 1"
+      },
+      {
+        "id": 33,
+        "title": "問題３２",
+        "description": "５手詰です。",
+        "initialSfen": "3S1k1n1/5+b3/4ppP2/5N3/9/9/9/9/9 b Rrb4g3s2n4l15p 1"
+      },
+      {
+        "id": 34,
+        "title": "問題３３",
+        "description": "７手詰です。",
+        "initialSfen": "3Blk1N1/5p3/5sP2/5N3/9/9/9/9/9 b RNrb4g3sn3l16p 1"
+      },
+      {
+        "id": 35,
+        "title": "問題３４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "3Sl1knl/5pB2/5bP2/5N3/9/9/9/9/9 b RNr4g3sn2l16p 1"
+      },
+      {
+        "id": 36,
+        "title": "問題３５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "4+r2kl/5p1ps/4PbP2/5N3/9/9/9/9/9 b RB4g3s3n3l14p 1"
+      },
+      {
+        "id": 37,
+        "title": "問題３６",
+        "description": "詰み筋８ 頭金の応用④〜肩金〜",
+        "initialSfen": "5b3/7kl/5G3/6S2/9/9/9/9/9 b G2rb2g3s4n3l18p 1"
+      },
+      {
+        "id": 38,
+        "title": "問題３７",
+        "description": "５手詰です。",
+        "initialSfen": "5b3/5S2l/8k/6P2/7+R1/9/9/9/9 b Grb3g3s4n3l17p 1"
+      },
+      {
+        "id": 39,
+        "title": "問題３８",
+        "description": "７手詰です。",
+        "initialSfen": "5B1kg/8l/5G3/5BS2/9/9/9/9/9 b Rr2g3s4n3l18p 1"
+      },
+      {
+        "id": 40,
+        "title": "問題３９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5bsk1/5+B2l/5+P3/9/9/9/9/9/9 b GP2r3g3s4n3l16p 1"
+      },
+      {
+        "id": 41,
+        "title": "問題４０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5bgkl/9/5+PR1P/9/9/9/9/9/9 b SPrb3g3s4n3l15p 1"
+      },
+      {
+        "id": 42,
+        "title": "問題４１",
+        "description": "詰み筋９ 腹金①",
+        "initialSfen": "9/5+P1k1/7p1/4+b3L/6B2/9/9/9/9 b G2r3g4s4n3l16p 1"
+      },
+      {
+        "id": 43,
+        "title": "問題４２",
+        "description": "５手詰です。",
+        "initialSfen": "9/5+P3/4+B1kpS/4+b4/9/8L/9/9/9 b G2r3g3s4n3l16p 1"
+      },
+      {
+        "id": 44,
+        "title": "問題４３",
+        "description": "７手詰です。",
+        "initialSfen": "7l1/5G3/4B1k1S/4+b4/6N2/8L/9/9/9 b G2r2g3s3n2l18p 1"
+      },
+      {
+        "id": 45,
+        "title": "問題４４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7l1/6k2/4B3S/4+b4/9/8L/9/9/9 b 3G2rg3s4n2l18p 1"
+      },
+      {
+        "id": 46,
+        "title": "問題４５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7l1/6k1S/4B3S/4+b2p1/9/8L/9/9/9 b 2GN2r2g2s3n2l17p 1"
+      },
+      {
+        "id": 47,
+        "title": "問題４６",
+        "description": "詰み筋10 腹金②",
+        "initialSfen": "8S/8k/7n1/7+b1/6B2/9/9/9/9 b GL2r3g3s3n3l18p 1"
+      },
+      {
+        "id": 48,
+        "title": "問題４７",
+        "description": "５手詰です。",
+        "initialSfen": "9/5R3/6Sk1/6pp1/5N+r2/9/9/9/9 b GL2b3g3s3n3l16p 1"
+      },
+      {
+        "id": 49,
+        "title": "問題４８",
+        "description": "７手詰です。",
+        "initialSfen": "6+P2/5+RSkg/6n2/6pp1/5r3/9/9/9/9 b L2b3g3s3n3l15p 1"
+      },
+      {
+        "id": 50,
+        "title": "問題４９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5Sl2/5RBkl/6ng1/6pp1/9/9/9/9/9 b Grb2g3s3n2l16p 1"
+      },
+      {
+        "id": 51,
+        "title": "問題５０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5S1k1/5+R2l/5sng1/7p1/6P+p1/9/9/9/9 b 2Sr2b3g3n3l15p 1"
+      },
+      {
+        "id": 52,
+        "title": "問題５１",
+        "description": "詰み筋11 腹金③",
+        "initialSfen": "9/6S2/5Bn2/7kp/9/9/9/9/9 b BG2r3g3s3n4l17p 1"
+      },
+      {
+        "id": 53,
+        "title": "問題５２",
+        "description": "５手詰です。",
+        "initialSfen": "7S1/5n3/5Bpk1/8g/9/9/9/9/9 b BG2r2g3s3n4l17p 1"
+      },
+      {
+        "id": 54,
+        "title": "問題５３",
+        "description": "７手詰です。",
+        "initialSfen": "9/7kn/5Sp2/8g/5R3/9/9/9/9 b BGrb2g3s3n4l17p 1"
+      },
+      {
+        "id": 55,
+        "title": "問題５４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5S3/4B3+P/6nk1/5g2p/9/9/9/9/9 b BG2r2g3s3n4l16p 1"
+      },
+      {
+        "id": 56,
+        "title": "問題５５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5S1n1/4B1R2/6bk1/5gN1p/9/9/9/9/9 b Gr2g3s2n4l17p 1"
+      },
+      {
+        "id": 57,
+        "title": "問題５６",
+        "description": "詰み筋12 腹金④",
+        "initialSfen": "5+R3/6p1s/6nk1/9/6+B2/9/9/9/9 b Grb3g3s3n4l17p 1"
+      },
+      {
+        "id": 58,
+        "title": "問題５７",
+        "description": "５手詰です。",
+        "initialSfen": "5+R3/6gks/6b2/8p/6+B2/9/9/9/9 b GLr2g3s4n3l17p 1"
+      },
+      {
+        "id": 59,
+        "title": "問題５８",
+        "description": "７手詰です。",
+        "initialSfen": "5+R3/6gks/5pp1p/7P1/6+B2/9/9/9/9 b GNrb2g3s3n4l14p 1"
+      },
+      {
+        "id": 60,
+        "title": "問題５９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+R3/6g1s/5gpkp/9/6+Bp1/9/9/9/9 b GNrbg3s3n4l15p 1"
+      },
+      {
+        "id": 61,
+        "title": "問題６０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+R3/6gks/4pppNp/8B/6+B2/9/9/9/9 b GNr2g3s2n4l14p 1"
+      },
+      {
+        "id": 62,
+        "title": "問題６１",
+        "description": "詰み筋13 腹金の応用①〜成駒で詰ます〜",
+        "initialSfen": "4k1+P2/9/4+b1P2/9/6r+B1/9/9/9/9 b Gr3g4s4n4l16p 1"
+      },
+      {
+        "id": 63,
+        "title": "問題６２",
+        "description": "５手詰です。",
+        "initialSfen": "4Sk3/9/4+bNP2/9/6r+B1/9/9/9/9 b Gr3g3s3n4l17p 1"
+      },
+      {
+        "id": 64,
+        "title": "問題６３",
+        "description": "７手詰です。",
+        "initialSfen": "5k3/5+b1S1/6p+P1/9/7+B1/9/9/9/9 b GN2r3g3s3n4l16p 1"
+      },
+      {
+        "id": 65,
+        "title": "問題６４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8+P/6+bk1/7pn/9/7N+B/9/9/9/9 b G2r3g4s2n4l16p 1"
+      },
+      {
+        "id": 66,
+        "title": "問題６５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6k1+P/6+b2/7p1/6p2/8+B/9/9/9/9 b G2SN2r3g2s3n4l15p 1"
+      },
+      {
+        "id": 67,
+        "title": "問題６６",
+        "description": "詰み筋14 腹金の応用②〜成駒で詰ます〜",
+        "initialSfen": "9/7Bk/9/6GLp/9/9/9/9/9 b 2rb3g4s4n3l17p 1"
+      },
+      {
+        "id": 68,
+        "title": "問題６７",
+        "description": "５手詰です。",
+        "initialSfen": "6s1k/4+R3l/9/6GLp/5b3/9/9/9/9 b rb3g3s4n2l17p 1"
+      },
+      {
+        "id": 69,
+        "title": "問題６８",
+        "description": "７手詰です。",
+        "initialSfen": "7Gb/6p1k/9/6GLp/5b3/9/9/9/9 b 2r2g4s4n3l16p 1"
+      },
+      {
+        "id": 70,
+        "title": "問題６９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6lS1/6p2/8k/6G1p/5b3/9/9/9/9 b NL2rb3g3s3n2l16p 1"
+      },
+      {
+        "id": 71,
+        "title": "問題７０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6lB1/6pk1/8n/6GGp/5b3/9/9/9/9 b L2r2g4s3n2l16p 1"
+      },
+      {
+        "id": 72,
+        "title": "問題７１",
+        "description": "詰み筋15 尻金①",
+        "initialSfen": "8R/5gk2/5pppp/9/9/9/9/9/9 b Gr2b2g4s4n4l14p 1"
+      },
+      {
+        "id": 73,
+        "title": "問題７２",
+        "description": "５手詰です。",
+        "initialSfen": "6kBR/5g3/5gbpp/9/9/9/9/9/9 b Grg4s4n4l16p 1"
+      },
+      {
+        "id": 74,
+        "title": "問題７３",
+        "description": "７手詰です。",
+        "initialSfen": "6kBR/4gg3/6bpp/9/9/9/9/9/9 b GNrg4s3n4l16p 1"
+      },
+      {
+        "id": 75,
+        "title": "問題７４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5k1BR/4gg3/6+bpp/9/9/9/9/9/9 b RGNg4s3n4l16p 1"
+      },
+      {
+        "id": 76,
+        "title": "問題７５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "4p3R/4ggk2/6+bpp/9/9/9/9/9/9 b B2GNr4s3n4l15p 1"
+      },
+      {
+        "id": 77,
+        "title": "問題７６",
+        "description": "詰み筋16 尻金②",
+        "initialSfen": "5R2+P/6g1l/6kpp/9/5P3/9/9/9/9 b Gr2b2g4s4n3l14p 1"
+      },
+      {
+        "id": 78,
+        "title": "問題７７",
+        "description": "５手詰です。",
+        "initialSfen": "5R2+P/6gk1/7pl/5g3/5P3/9/9/9/9 b Sr2b2g3s4n3l15p 1"
+      },
+      {
+        "id": 79,
+        "title": "問題７８",
+        "description": "７手詰です。",
+        "initialSfen": "5R2+P/6gk1/4B2pp/6g2/5P3/9/9/9/9 b Srb2g3s4n4l14p 1"
+      },
+      {
+        "id": 80,
+        "title": "問題７９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5R1+P1/6g1k/5g1pp/4p4/5P3/9/9/9/9 b BSrb2g3s4n4l13p 1"
+      },
+      {
+        "id": 81,
+        "title": "問題８０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5R3/6gk1/4Bg1pp/9/5P3/9/9/9/9 b GSrbg3s4n4l15p 1"
+      },
+      {
+        "id": 82,
+        "title": "問題８１",
+        "description": "詰み筋17 尻金③",
+        "initialSfen": "8n/7+PS/8k/7r1/8S/9/9/9/9 b Gr2b3g2s3n4l17p 1"
+      },
+      {
+        "id": 83,
+        "title": "問題８２",
+        "description": "５手詰です。",
+        "initialSfen": "6n2/7+PS/8k/6+b1p/7P+R/9/9/9/9 b Grb3g3s3n4l15p 1"
+      },
+      {
+        "id": 84,
+        "title": "問題８３",
+        "description": "７手詰です。",
+        "initialSfen": "7nl/5p+P2/5g2k/6ppp/9/9/9/9/9 b 2GS2r2bg3s3n3l13p 1"
+      },
+      {
+        "id": 85,
+        "title": "問題８４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7nl/5p+P1g/5g2k/6+Bpp/6P2/9/9/9/9 b GS2rbg3s3n3l13p 1"
+      },
+      {
+        "id": 86,
+        "title": "問題８５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7nl/5g+P1g/5pSk1/6bpp/9/9/9/9/9 b R2Grb3s3n3l14p 1"
+      },
+      {
+        "id": 87,
+        "title": "問題８６",
+        "description": "詰み筋18 吊るし桂①",
+        "initialSfen": "4pk3/9/4S4/7+R1/9/9/9/9/9 b Nr2b4g3s3n4l17p 1"
+      },
+      {
+        "id": 88,
+        "title": "問題８７",
+        "description": "５手詰です。",
+        "initialSfen": "4s2n1/4+Bpk2/4S4/7+R1/9/9/9/9/9 b rb4g2s3n4l17p 1"
+      },
+      {
+        "id": 89,
+        "title": "問題８８",
+        "description": "７手詰です。",
+        "initialSfen": "4s2n1/6k2/4S4/7+R1/9/9/9/9/9 b Brb4g2s3n4l18p 1"
+      },
+      {
+        "id": 90,
+        "title": "問題８９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7n1/5p1k1/4L1pB1/7+Rp/8s/9/9/9/9 b BNr4g3s2n3l15p 1"
+      },
+      {
+        "id": 91,
+        "title": "問題９０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "4p2ns/4npp1k/8p/5rP+R1/9/9/9/9/9 b 2B4g3s2n4l13p 1"
+      },
+      {
+        "id": 92,
+        "title": "問題９１",
+        "description": "詰み筋19 吊るし桂②",
+        "initialSfen": "7S1/7p1/6l1k/9/7S1/9/9/9/9 b NL2r2b4g2s3n2l17p 1"
+      },
+      {
+        "id": 93,
+        "title": "問題９２",
+        "description": "５手詰です。",
+        "initialSfen": "7+P1/6l2/6sk1/6p2/7S1/8R/9/9/9 b NLr2b4g2s3n2l16p 1"
+      },
+      {
+        "id": 94,
+        "title": "問題９３",
+        "description": "７手詰です。",
+        "initialSfen": "9/6lpk/6s2/9/6PSN/8L/9/9/9 b NL2r2b4g2s2nl16p 1"
+      },
+      {
+        "id": 95,
+        "title": "問題９４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7+P1/6lpk/6s2/6p2/7SN/8L/9/9/9 b NP2r2b4g2s2n2l14p 1"
+      },
+      {
+        "id": 96,
+        "title": "問題９５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7k1/6pp1/6lN1/9/7SN/8L/9/9/9 b SNP2r2b4g2sn2l15p 1"
+      },
+      {
+        "id": 97,
+        "title": "問題９６",
+        "description": "詰み筋20 吊るし桂③",
+        "initialSfen": "7pk/5r3/7+BS/9/9/9/9/9/9 b Nrb4g3s3n4l17p 1"
+      },
+      {
+        "id": 98,
+        "title": "問題９７",
+        "description": "５手詰です。",
+        "initialSfen": "7nk/5r3/5n1LS/6+B2/9/9/9/9/9 b Nrb4g3sn3l18p 1"
+      },
+      {
+        "id": 99,
+        "title": "問題９８",
+        "description": "７手詰です。",
+        "initialSfen": "6k2/5r1P1/7+BS/9/5N3/9/9/9/9 b Nrb4g3s2n4l17p 1"
+      },
+      {
+        "id": 100,
+        "title": "問題９９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8+P/5rk2/5p2+P/6+B2/7N1/9/9/9/9 b Nrb4g4s2n4l15p 1"
+      },
+      {
+        "id": 101,
+        "title": "問題１００",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6gk1/4sr3/6L+B+P/9/9/9/9/9/9 b 3Nrb3g3sn3l17p 1"
+      },
+      {
+        "id": 102,
+        "title": "問題１０１",
+        "description": "詰み筋21 吊るし桂④",
+        "initialSfen": "6nkl/7p1/6+B2/7Nb/9/9/9/9/9 b N2r4g4sn3l17p 1"
+      },
+      {
+        "id": 103,
+        "title": "問題１０２",
+        "description": "５手詰です。",
+        "initialSfen": "5+Pnkl/5r3/6+B2/7N1/9/9/9/9/9 b NPrb4g4sn3l16p 1"
+      },
+      {
+        "id": 104,
+        "title": "問題１０３",
+        "description": "７手詰です。",
+        "initialSfen": "5+P2l/4g2p1/6+Bbk/8p/9/9/9/9/9 b 2N2r3g4s2n3l15p 1"
+      },
+      {
+        "id": 105,
+        "title": "問題１０４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+P2l/4g2pk/6Sbn/8p/6+B2/9/9/9/9 b N2r3g3s2n3l15p 1"
+      },
+      {
+        "id": 106,
+        "title": "問題１０５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+P2l/4g1bnk/6S1n/5p2p/6+B2/9/9/9/9 b SN2r3g2sn3l15p 1"
+      },
+      {
+        "id": 107,
+        "title": "問題１０６",
+        "description": "詰み筋22 開き王手①",
+        "initialSfen": "8B/6kP1/4+P4/7p1/8N/9/9/9/9 b S2rb4g3s3n4l15p 1"
+      },
+      {
+        "id": 108,
+        "title": "問題１０７",
+        "description": "５手詰です。",
+        "initialSfen": "8B/4+P1kP1/5P3/6sp1/8N/9/9/9/9 b S2rb4g2s3n4l14p 1"
+      },
+      {
+        "id": 109,
+        "title": "問題１０８",
+        "description": "７手詰です。",
+        "initialSfen": "5pn1B/6kP1/4+P4/6pg1/8N/9/9/9/9 b B2r3g4s2n4l14p 1"
+      },
+      {
+        "id": 110,
+        "title": "問題１０９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6kS+B/4+P1pP1/5p1pS/9/6+r2/9/9/9/9 b Lrb4g2s4n3l13p 1"
+      },
+      {
+        "id": 111,
+        "title": "問題１１０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6lkB/5p3/4+P4/6pp1/8N/8R/9/9/9 b BPr4g4s3n3l13p 1"
+      },
+      {
+        "id": 112,
+        "title": "問題１１１",
+        "description": "詰み筋23 開き王手②",
+        "initialSfen": "9/8l/6+P1k/8s/6P2/5B1S1/9/9/9 b G2rb3g2s4n3l16p 1"
+      },
+      {
+        "id": 113,
+        "title": "問題１１２",
+        "description": "５手詰です。",
+        "initialSfen": "9/8r/7k1/8s/6L2/5B1S1/9/9/9 b 2Grb2g2s4n3l18p 1"
+      },
+      {
+        "id": 114,
+        "title": "問題１１３",
+        "description": "７手詰です。",
+        "initialSfen": "9/7ng/7k1/5+RL2/6P2/5B1S1/9/9/9 b Prb3g3s3n3l16p 1"
+      },
+      {
+        "id": 115,
+        "title": "問題１１４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8n/8g/6S1k/5+RP2/6L2/5BbS1/9/9/9 b Pr3g2s3n3l16p 1"
+      },
+      {
+        "id": 116,
+        "title": "問題１１５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "9/5R1Ss/6n2/5p1k1/6P2/5B1Sb/9/9/9 b r4gs3n4l16p 1"
+      },
+      {
+        "id": 117,
+        "title": "問題１１６",
+        "description": "詰み筋24 開き王手③",
+        "initialSfen": "4PkNL1/6R2/4S2B1/9/9/9/9/9/9 b L 1"
+      },
+      {
+        "id": 118,
+        "title": "問題１１７",
+        "description": "５手詰です。",
+        "initialSfen": "4GNkL1/4R1R2/6P+B1/5P3/9/9/9/9/9 b NL 1"
+      },
+      {
+        "id": 119,
+        "title": "問題１１８",
+        "description": "７手詰です。",
+        "initialSfen": "5+R1NL/5Sk2/7P+B/4GPP2/9/9/9/9/9 b RL 1"
+      },
+      {
+        "id": 120,
+        "title": "問題１１９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+R1NL/5SkP1/8+B/4GPP2/9/9/9/9/9 b RGL 1"
+      },
+      {
+        "id": 121,
+        "title": "問題１２０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "3+P1G1NL/5P1P1/4NSk1+B/6PP1/4S4/9/9/9/9 b RNP 1"
+      },
+      {
+        "id": 122,
+        "title": "問題１２１",
+        "description": "詰み筋25 一間竜①",
+        "initialSfen": "6Bk1/9/5S1p1/8R/9/9/9/9/9 b Prb4g3s4n4l16p 1"
+      },
+      {
+        "id": 123,
+        "title": "問題１２２",
+        "description": "５手詰です。",
+        "initialSfen": "7+P1/8k/6Sp1/6R2/9/9/9/9/9 b Pr2b4g3s4n4l15p 1"
+      },
+      {
+        "id": 124,
+        "title": "問題１２３",
+        "description": "７手詰です。",
+        "initialSfen": "6Bl1/8k/5S3/9/7RN/9/9/9/9 b Prb4g3s3n3l17p 1"
+      },
+      {
+        "id": 125,
+        "title": "問題１２４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "9/7k1/7pL/6R2/9/9/9/9/9 b SNPr2b4g3s3n3l16p 1"
+      },
+      {
+        "id": 126,
+        "title": "問題１２５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5g3/7k1/4+B+P1pP/6p2/5r1R1/9/9/9/9 b BP3g4s4n4l13p 1"
+      },
+      {
+        "id": 127,
+        "title": "問題１２６",
+        "description": "詰み筋26 一間竜②",
+        "initialSfen": "7RB/5p3/4Pk3/4p1r2/9/9/9/9/9 b Sb4g3s4n4l15p 1"
+      },
+      {
+        "id": 128,
+        "title": "問題１２７",
+        "description": "５手詰です。",
+        "initialSfen": "4+R3B/5pk2/4P4/4p1r2/9/9/9/9/9 b Gb3g4s4n4l15p 1"
+      },
+      {
+        "id": 129,
+        "title": "問題１２８",
+        "description": "７手詰です。",
+        "initialSfen": "5R3/5p1k1/4P3p/4p1r2/9/9/9/9/9 b BGb3g4s4n4l14p 1"
+      },
+      {
+        "id": 130,
+        "title": "問題１２９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "4R4/5pk2/4P3p/4pBr2/6p2/9/9/9/9 b BG3g4s4n4l13p 1"
+      },
+      {
+        "id": 131,
+        "title": "問題１３０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5R3/3+P1pk1g/8p/4p1r1N/4B4/9/9/9/9 b B3g4s3n4l14p 1"
+      },
+      {
+        "id": 132,
+        "title": "問題１３１",
+        "description": "詰み筋27 一間竜③",
+        "initialSfen": "5+P1kl/9/6+Rs1/9/9/9/9/9/9 b r2b4g3s4n3l17p 1"
+      },
+      {
+        "id": 133,
+        "title": "問題１３２",
+        "description": "５手詰です。",
+        "initialSfen": "5+P2l/8k/7s1/7G1/9/9/9/9/9 b Rr2b3g3s4n3l17p 1"
+      },
+      {
+        "id": 134,
+        "title": "問題１３３",
+        "description": "７手詰です。",
+        "initialSfen": "5+P2l/8k/9/7Gb/6N2/9/9/9/9 b Rrb3g4s3n3l17p 1"
+      },
+      {
+        "id": 135,
+        "title": "問題１３４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+P2l/6s2/6n1k/6G2/9/9/9/9/9 b RSr2b3g2s3n3l17p 1"
+      },
+      {
+        "id": 136,
+        "title": "問題１３５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+P1nl/6b2/6s1K/5+RG2/9/9/9/9/9 b Rb3g3s3n3l17p 1"
+      },
+      {
+        "id": 137,
+        "title": "問題１３６",
+        "description": "詰み筋28 竜の詰み①",
+        "initialSfen": "6S1l/8k/9/6p1p/8b/9/9/9/9 b Rrb4g3s4n3l16p 1"
+      },
+      {
+        "id": 138,
+        "title": "問題１３７",
+        "description": "５手詰です。",
+        "initialSfen": "6S1l/6l1k/5N3/5p2p/8b/9/9/9/9 b RBr4g3s3n2l16p 1"
+      },
+      {
+        "id": 139,
+        "title": "問題１３８",
+        "description": "７手詰です。",
+        "initialSfen": "5ps1l/6s1k/6n2/6RP1/6P2/9/9/9/9 b R2b4g2s3n3l15p 1"
+      },
+      {
+        "id": 140,
+        "title": "問題１３９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5pS1n/9/6pbk/5R1N1/7P1/9/9/9/9 b Rb4g3s2n4l15p 1"
+      },
+      {
+        "id": 141,
+        "title": "問題１４０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5pS1l/6s1k/6pr1/5R3/6PN1/9/9/9/9 b G2b3g2s3n3l15p 1"
+      },
+      {
+        "id": 142,
+        "title": "問題１４１",
+        "description": "詰み筋29 竜の詰み②",
+        "initialSfen": "7+Pl/5R3/8k/6+B1p/7r1/9/9/9/9 b b4g4s4n3l16p 1"
+      },
+      {
+        "id": 143,
+        "title": "問題１４２",
+        "description": "５手詰です。",
+        "initialSfen": "7+P1/5R1ll/8k/6nrp/9/9/9/9/9 b BNb4g4s2n2l16p 1"
+      },
+      {
+        "id": 144,
+        "title": "問題１４３",
+        "description": "７手詰です。",
+        "initialSfen": "8l/5R3/6+P1k/5B2p/6S2/7r1/9/9/9 b Nb4g3s3n3l16p 1"
+      },
+      {
+        "id": 145,
+        "title": "問題１４４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8l/5R3/4BP1k1/8p/6GN1/7+r1/9/9/9 b Nb3g4s2n3l16p 1"
+      },
+      {
+        "id": 146,
+        "title": "問題１４５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8l/5R1S1/4BP3/6k1p/9/7r1/9/9/9 b GNb3g3s3n3l16p 1"
+      },
+      {
+        "id": 147,
+        "title": "問題１４６",
+        "description": "詰み筋30 竜の詰み③",
+        "initialSfen": "5Rs2/4G1k1+P/5ppp1/9/9/9/9/9/9 b r2b3g3s4n4l14p 1"
+      },
+      {
+        "id": 148,
+        "title": "問題１４７",
+        "description": "５手詰です。",
+        "initialSfen": "5Rsk1/9/5pppp/9/9/9/9/9/9 b 2Gr2b2g3s4n4l14p 1"
+      },
+      {
+        "id": 149,
+        "title": "問題１４８",
+        "description": "７手詰です。",
+        "initialSfen": "4+R1gk1/8g/5ppp1/8P/7N1/9/9/9/9 b 2Gr2b4s3n4l14p 1"
+      },
+      {
+        "id": 150,
+        "title": "問題１４９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5p1nk/9/5+Bg1p/7P1/9/9/9/9/9 b RNrb3g4s2n4l15p 1"
+      },
+      {
+        "id": 151,
+        "title": "問題１５０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+B1gl/7kp/4ppnp1/8P/9/9/9/9/9 b RGSrb2g3s3n3l13p 1"
+      },
+      {
+        "id": 152,
+        "title": "問題１５１",
+        "description": "詰み筋31 竜の詰み④",
+        "initialSfen": "8k/5+R3/6Npp/9/9/9/9/9/9 b r2b4g4s3n4l16p 1"
+      },
+      {
+        "id": 153,
+        "title": "問題１５２",
+        "description": "５手詰です。",
+        "initialSfen": "7k1/5+R3/7pn/9/7N1/9/9/9/9 b r2b4g4s2n4l17p 1"
+      },
+      {
+        "id": 154,
+        "title": "問題１５３",
+        "description": "７手詰です。",
+        "initialSfen": "6+B1k/5+R3/7ps/9/9/9/9/9/9 b Nrb4g3s3n4l17p 1"
+      },
+      {
+        "id": 155,
+        "title": "問題１５４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7k1/5+R3/6Lps/9/9/9/9/9/9 b Nr2b4g3s3n3l17p 1"
+      },
+      {
+        "id": 156,
+        "title": "問題１５５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6n2/5+R1Sk/6Lps/9/9/9/9/9/9 b r2b4g2s3n3l17p 1"
+      },
+      {
+        "id": 157,
+        "title": "問題１５６",
+        "description": "詰み筋32 竜の詰み⑤",
+        "initialSfen": "7R1/5+b3/5B3/8k/8p/8N/9/9/9 b r4g4s3n4l17p 1"
+      },
+      {
+        "id": 158,
+        "title": "問題１５７",
+        "description": "５手詰です。",
+        "initialSfen": "7R1/5+b3/8k/5+B3/7Pp/9/9/9/9 b r4g4s4n4l16p 1"
+      },
+      {
+        "id": 159,
+        "title": "問題１５８",
+        "description": "７手詰です。",
+        "initialSfen": "5pS+R1/5+b3/9/7Sk/7Pp/9/9/9/9 b Br4g2s4n4l15p 1"
+      },
+      {
+        "id": 160,
+        "title": "問題１５９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7R1/5+b3/8k/5B1N1/7Pp/9/9/9/9 b r4g4s3n4l16p 1"
+      },
+      {
+        "id": 161,
+        "title": "問題１６０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7Sl/5+bR2/7k1/4B1p2/7sp/8N/9/9/9 b R4g2s3n3l16p 1"
+      },
+      {
+        "id": 162,
+        "title": "問題１６１",
+        "description": "詰み筋33 竜の詰み⑥",
+        "initialSfen": "6k1l/4+R4/5L+b2/9/9/9/9/9/9 b Srb4g3s4n2l18p 1"
+      },
+      {
+        "id": 163,
+        "title": "問題１６２",
+        "description": "５手詰です。",
+        "initialSfen": "4+P2ks/4+R4/6+bN1/9/9/9/9/9/9 b Srb4g2s3n4l17p 1"
+      },
+      {
+        "id": 164,
+        "title": "問題１６３",
+        "description": "７手詰です。",
+        "initialSfen": "4+P2kl/4+R2+b1/9/8P/9/9/9/9/9 b GSNrb3g3s3n3l16p 1"
+      },
+      {
+        "id": 165,
+        "title": "問題１６４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "4+P+B1nl/8k/9/6s1P/6P2/9/9/9/9 b RBr4g3s3n3l15p 1"
+      },
+      {
+        "id": 166,
+        "title": "問題１６５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+B1gl/8k/5L1P1/9/9/9/9/9/9 b RSPrb3g3s4n2l16p 1"
+      },
+      {
+        "id": 167,
+        "title": "問題１６６",
+        "description": "詰み筋34 竜の詰み⑦",
+        "initialSfen": "6p1k/9/7G1/5b1R1/9/9/9/9/9 b rb3g4s4n4l17p 1"
+      },
+      {
+        "id": 168,
+        "title": "問題１６７",
+        "description": "５手詰です。",
+        "initialSfen": "6r2/6S1k/6b2/7R1/9/9/9/9/9 b b4g3s4n4l18p 1"
+      },
+      {
+        "id": 169,
+        "title": "問題１６８",
+        "description": "７手詰です。",
+        "initialSfen": "6p1k/9/9/5+b1R1/9/9/9/9/9 b GSrb3g3s4n4l17p 1"
+      },
+      {
+        "id": 170,
+        "title": "問題１６９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6r2/6p1k/6bN1/9/7+R1/9/9/9/9 b BG3g4s3n4l17p 1"
+      },
+      {
+        "id": 171,
+        "title": "問題１７０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6lgB/6p1k/9/5b3/6RR1/9/9/9/9 b S3g3s4n3l17p 1"
+      },
+      {
+        "id": 172,
+        "title": "問題１７１",
+        "description": "詰み筋35 馬の詰み①",
+        "initialSfen": "9/6+B2/8k/7g1/9/9/9/9/9 b B2r3g4s4n4l18p 1"
+      },
+      {
+        "id": 173,
+        "title": "問題１７２",
+        "description": "５手詰です。",
+        "initialSfen": "7nl/6+B1k/9/6pg1/9/9/9/9/9 b BG2r2g4s3n3l17p 1"
+      },
+      {
+        "id": 174,
+        "title": "問題１７３",
+        "description": "７手詰です。",
+        "initialSfen": "7nl/7k1/6P2/7gB/7r1/9/9/9/9 b RB3g4s3n3l17p 1"
+      },
+      {
+        "id": 175,
+        "title": "問題１７４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7nl/4r1+Bpk/6S2/6pgp/9/9/9/9/9 b Br3g3s3n3l15p 1"
+      },
+      {
+        "id": 176,
+        "title": "問題１７５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7nl/6+B1k/6p2/5+R1g1/8+r/9/9/9/9 b BG2g4s3n3l17p 1"
+      },
+      {
+        "id": 177,
+        "title": "問題１７６",
+        "description": "詰み筋36 馬の詰み②",
+        "initialSfen": "9/5+B1p1/7k1/9/8+R/8N/9/9/9 b rb4g4s3n4l17p 1"
+      },
+      {
+        "id": 178,
+        "title": "問題１７７",
+        "description": "５手詰です。",
+        "initialSfen": "9/5+B1p1/8k/9/7P1/9/9/9/9 b Rrb4g4s4n4l16p 1"
+      },
+      {
+        "id": 179,
+        "title": "問題１７８",
+        "description": "７手詰です。",
+        "initialSfen": "5s1b1/5+B1k1/9/9/7P1/9/9/9/9 b RSr4g2s4n4l17p 1"
+      },
+      {
+        "id": 180,
+        "title": "問題１７９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8k/5+B1p1/9/9/6BP1/9/9/9/9 b RSr4g3s4n4l16p 1"
+      },
+      {
+        "id": 181,
+        "title": "問題１８０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5n3/4sS1pk/5P3/7B1/5r1+R1/6N2/9/9/9 b b4g2s2n4l16p 1"
+      },
+      {
+        "id": 182,
+        "title": "問題１８１",
+        "description": "詰み筋37 馬の詰み③",
+        "initialSfen": "7n1/6R+B+P/9/7k1/6Psp/9/9/9/9 b rb4g3s3n4l15p 1"
+      },
+      {
+        "id": 183,
+        "title": "問題１８２",
+        "description": "５手詰です。",
+        "initialSfen": "7n1/7+B+P/9/8k/6Ppp/9/9/9/9 b Rrb4g4s3n4l14p 1"
+      },
+      {
+        "id": 184,
+        "title": "問題１８３",
+        "description": "７手詰です。",
+        "initialSfen": "7n1/7B+B/5p1n1/8k/7p1/8P/9/9/9 b RSr4g3s2n4l15p 1"
+      },
+      {
+        "id": 185,
+        "title": "問題１８４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7n1/8+P/9/5+B2k/6Pps/9/9/9/9 b RSrb4g2s3n4l15p 1"
+      },
+      {
+        "id": 186,
+        "title": "問題１８５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6+Bn1/7+Ps/5p2k/9/6Pp+b/9/9/9/9 b Rr4g3s3n4l14p 1"
+      },
+      {
+        "id": 187,
+        "title": "問題１８６",
+        "description": "詰み筋38 馬の詰み④",
+        "initialSfen": "6+B2/8n/5p3/7kp/7N1/6G2/9/9/9 b 2rb3g4s2n4l16p 1"
+      },
+      {
+        "id": 188,
+        "title": "問題１８７",
+        "description": "５手詰です。",
+        "initialSfen": "6+B2/8n/7k1/5Lp1p/7N1/6S2/9/9/9 b L2rb4g3s2n2l16p 1"
+      },
+      {
+        "id": 189,
+        "title": "問題１８８",
+        "description": "７手詰です。",
+        "initialSfen": "6+B+bl/9/7kS/6p1p/7N1/6S2/9/9/9 b P2r4g2s3n3l15p 1"
+      },
+      {
+        "id": 190,
+        "title": "問題１８９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6+B+bl/5R3/5Spk1/8p/5P1N1/6S2/9/9/9 b Pr4g2s3n3l14p 1"
+      },
+      {
+        "id": 191,
+        "title": "問題１９０",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6+Bsl/5R3/7k1/4+bpP1p/6G2/6S2/9/9/9 b Nr3g2s3n3l15p 1"
+      },
+      {
+        "id": 192,
+        "title": "問題１９１",
+        "description": "詰み筋39 銀の詰み",
+        "initialSfen": "9/5+B1kl/7p1/8p/9/9/9/9/9 b SN2rb4g3s3n3l16p 1"
+      },
+      {
+        "id": 193,
+        "title": "問題１９２",
+        "description": "５手詰です。",
+        "initialSfen": "7n1/6k1l/4+P1pp1/8p/7P1/9/9/9/9 b GSN2r2b3g3s2n3l13p 1"
+      },
+      {
+        "id": 194,
+        "title": "問題１９３",
+        "description": "７手詰です。",
+        "initialSfen": "7n1/6k1l/4+Pgpp1/8p/7P1/9/9/9/9 b 2GSN2r2bg3s2n3l13p 1"
+      },
+      {
+        "id": 195,
+        "title": "問題１９４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "7nl/6gk1/4+PPpp1/7Np/7P1/9/9/9/9 b GS2r2b2g3s2n3l12p 1"
+      },
+      {
+        "id": 196,
+        "title": "問題１９５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5Ssnl/5R3/6gpk/8p/7P1/7N1/9/9/9 b 2GSr2bgs2n3l15p 1"
+      },
+      {
+        "id": 197,
+        "title": "問題１９６",
+        "description": "詰み筋40 香の詰み①",
+        "initialSfen": "9/6l+B1/6r2/6Spk/9/8P/9/9/9 b rb4g3s4n3l16p 1"
+      },
+      {
+        "id": 198,
+        "title": "問題１９７",
+        "description": "５手詰です。",
+        "initialSfen": "7+Rp/6s1l/8k/6BpN/9/8P/9/9/9 b rb4g3s3n3l15p 1"
+      },
+      {
+        "id": 199,
+        "title": "問題１９８",
+        "description": "７手詰です。",
+        "initialSfen": "6+B2/6l2/6k1p/6rp1/9/7+B1/9/9/9 b 2Gr2g4s4n3l16p 1"
+      },
+      {
+        "id": 200,
+        "title": "問題１９９",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6+B2/6l1B/6k1p/5r1p1/5P3/8S/9/9/9 b GPr3g3s4n3l14p 1"
+      },
+      {
+        "id": 201,
+        "title": "問題２００",
+        "description": "９手or11手詰です。",
+        "initialSfen": "6+B2/6l2/7kp/7p1/6+r2/6N1S/9/9/9 b BGPr3g3s3n3l15p 1"
+      },
+      {
+        "id": 202,
+        "title": "問題２０１",
+        "description": "詰み筋41 香の詰み②",
+        "initialSfen": "9/8k/6+b2/9/7+R1/9/9/9/9 b GLrb3g4s4n3l18p 1"
+      },
+      {
+        "id": 203,
+        "title": "問題２０２",
+        "description": "５手詰です。",
+        "initialSfen": "6R1l/7sk/9/8G/7+R1/9/9/9/9 b 2b3g3s4n3l18p 1"
+      },
+      {
+        "id": 204,
+        "title": "問題２０３",
+        "description": "７手詰です。",
+        "initialSfen": "5Rb1l/6p1k/9/8N/6B+R1/9/9/9/9 b 4g4s3n3l17p 1"
+      },
+      {
+        "id": 205,
+        "title": "問題２０４",
+        "description": "９手or11手詰です。",
+        "initialSfen": "8k/7Ps/5b2l/9/6B+R1/9/9/9/9 b Gr3g3s4n3l17p 1"
+      },
+      {
+        "id": 206,
+        "title": "問題２０５",
+        "description": "９手or11手詰です。",
+        "initialSfen": "5+Rb1l/6S1k/6Sp1/8s/9/7+R1/9/9/9 b b4gs4n3l17p 1"
+      }
+    ],
+    "timestamp": 1786596445067
+  }
+]
